@@ -1,2 +1,2 @@
 # QuickScript
-A small app for managing linux scripts (.sh).
+A small app for creating, running and managing linux scripts (.sh).
